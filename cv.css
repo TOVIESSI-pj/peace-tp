@@ -1,0 +1,28 @@
+h1{ 
+   text-decoration: underline; font-size: 2em; color: chartreuse;font-family: ’Trebuchet MS’, algerian, verdana;
+}
+.peace{
+    text-decoration: underline; font-size: 1.5emfont-family: ’Trebuchet MS’, algerian, verdana;
+}
+p{
+     font-size: 1.5em 
+}
+h2{
+    text-decoration: underline; font-size:1.5em ;color: gold;font-family: ’Trebuchet MS’, algerian, verdana; 
+}
+.indentation{
+    text-indent: 100%;
+}
+span {
+    font-family: ’Trebuchet MS’, algerian, calibri;   
+}
+strong{
+    font-family: ’Trebuchet MS’, algerian, calibri;
+}
+h3{
+    font-family: ’Trebuchet MS’, algerian, calibri;text-decoration: underline; font-size: 2em; color: chartreuse;
+}
+a{
+    text-decoration: underline; font-size: 1,5em; color: rgb(255, 0, 0); font-family: ’Trebuchet MS’, algerian, calibri;
+}    
+
